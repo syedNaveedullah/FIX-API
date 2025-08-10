@@ -1,0 +1,28 @@
+{
+    "JsonVersion": 2.0,
+    "XServerVersion": "2.61.87",
+    "Pricing": {
+      "BeginString": "FIX.4.4",
+      "SenderCompID": "Q004",
+      "LoginPassword": "4yNOeGXr9AmJ",
+      "TargetCompID": "XCD191",
+      "Sessions": "FRI17:05:30-FRI17:05:00",
+      "ResetOnLogon": "Y",
+      "LoginUsername": "primexm_demo12_q",
+      "SocketUseSSL": "N",
+      "SocketConnectHost": "pxmdemouk.primexm.com",
+      "SocketConnectPort": "32477"
+    },
+    "Trading": {
+      "BeginString": "FIX.4.4",
+      "SocketUseSSL": "Y",
+      "SenderCompID": "T004",
+      "LoginPassword": "I3dmfZpEVdXg",
+      "TargetCompID": "XCD191",
+      "Sessions": "FRI17:05:30-FRI17:05:00",
+      "ResetOnLogon": "N",
+      "LoginUsername": "primexm_demo12_t",
+      "SocketConnectHost": "pxmdemouk.primexm.com",
+      "SocketConnectPort": "32478"
+    }
+  }
